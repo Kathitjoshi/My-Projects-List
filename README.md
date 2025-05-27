@@ -2,7 +2,7 @@
 
 ## Python
 
-* [Stone-Papers-Scissors](https://github.com/Kathitjoshi/stone_papers_scissors)
+* [Stone-Papers-Scissors](https://github.com/Kathitjoshi/stone_papers_scissors) 
 * [PLY-Tool](https://github.com/Kathitjoshi/PLY-tool)
 * [MarketPlace-Express](https://github.com/Kathitjoshi/MarketPlace-Express)
 * [Sign-up-page](https://github.com/Kathitjoshi/Sign-up-Portal)
@@ -21,8 +21,15 @@
 * [Login Page](https://github.com/Kathitjoshi/LoginPage_2)
 * [Portfolio Website](https://github.com/Kathitjoshi/Kathitjoshi.github.io)
 * [To-do List](https://github.com/Kathitjoshi/WebTech-Jackfruit)
-* 
+* [Indian Budget Survey Form](https://github.com/Kathitjoshi/WebTech-Banana)
 
+## I-verilog
+* [8-bit ones counter](https://github.com/Kathitjoshi/Ones-Counter_IVERILOG)
+* [Logical Operations](https://github.com/Kathitjoshi/Logical-Operations_iverilog)
+
+## Data Analysis and Modelling
+* [SDS Datathon](https://github.com/Kathitjoshi/SDS-Datathon)  
+  
 
 ## Miscellaneous
 * [Simple Calculator](https://github.com/Kathitjoshi/Simple-Calculator)
@@ -32,5 +39,7 @@
 * [ARM 7 TDMI codes for futire Pesites](https://github.com/Kathitjoshi/ARM-CODES)
 * [DSA Codes for futire Pesites](https://github.com/Kathitjoshi/DSA-CODES)
 * [WebTech Basic Tutorials](https://github.com/Kathitjoshi/WebTech-Orange)
+* [WebDev Codes for future Pesites](https://github.com/Kathitjoshi/WEBTECH-CODES)
+* [SDS Codes for future Pesites](https://github.com/Kathitjoshi/SDS-Hands-on)
   
 
