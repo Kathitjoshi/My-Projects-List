@@ -16,7 +16,7 @@
 * [Census-Management](https://github.com/Kathitjoshi/Census_Management)
 * [Child-Parent-MemoryMap-Basic Kernel Module](https://github.com/Kathitjoshi/Child_Parent_MemoryMap_BasicKernelModule)
 
-## Webdev
+## Web Development
 
 * [Login Page](https://github.com/Kathitjoshi/LoginPage_2)
 * [Portfolio Website](https://github.com/Kathitjoshi/Kathitjoshi.github.io)
