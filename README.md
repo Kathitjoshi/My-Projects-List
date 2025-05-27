@@ -3,4 +3,34 @@
 ## Python
 
 * [Stone-Papers-Scissors](https://github.com/Kathitjoshi/stone_papers_scissors)
+* [PLY-Tool](https://github.com/Kathitjoshi/PLY-tool)
+* [MarketPlace-Express](https://github.com/Kathitjoshi/MarketPlace-Express)
+* [Sign-up-page](https://github.com/Kathitjoshi/Sign-up-Portal)
+* [Login-Page](https://github.com/Kathitjoshi/Login-Portal)
+* [Search-Bar](https://github.com/Kathitjoshi/Search-Bar)
+* [SecureTCP-Calculator-MultiServer](https://github.com/Kathitjoshi/SecureTCP_Calculator_MultiServer)
+* [BrowserCache](https://github.com/Kathitjoshi/BrowserCache)
+
+## C
+
+* [Census-Management](https://github.com/Kathitjoshi/Census_Management)
+* [Child-Parent-MemoryMap-Basic Kernel Module](https://github.com/Kathitjoshi/Child_Parent_MemoryMap_BasicKernelModule)
+
+## Webdev
+
+* [Login Page](https://github.com/Kathitjoshi/LoginPage_2)
+* [Portfolio Website](https://github.com/Kathitjoshi/Kathitjoshi.github.io)
+* [To-do List](https://github.com/Kathitjoshi/WebTech-Jackfruit)
+* 
+
+
+## Miscellaneous
+* [Simple Calculator](https://github.com/Kathitjoshi/Simple-Calculator)
+* [Simple Animation](https://github.com/Kathitjoshi/Sun-and-Clouds)
+* [Space HTML](https://github.com/Kathitjoshi/Space_HTML)
+* [Iverilog Codes for Future Pesites](https://github.com/Kathitjoshi/IVERILOG-CODES)
+* [ARM 7 TDMI codes for futire Pesites](https://github.com/Kathitjoshi/ARM-CODES)
+* [DSA Codes for futire Pesites](https://github.com/Kathitjoshi/DSA-CODES)
+* [WebTech Basic Tutorials](https://github.com/Kathitjoshi/WebTech-Orange)
+  
 
