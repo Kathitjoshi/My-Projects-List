@@ -32,14 +32,14 @@
   
 
 ## Miscellaneous
-* [Simple Calculator](https://github.com/Kathitjoshi/Simple-Calculator)
-* [Simple Animation](https://github.com/Kathitjoshi/Sun-and-Clouds)
-* [Space HTML](https://github.com/Kathitjoshi/Space_HTML)
-* [Iverilog Codes for Future Pesites](https://github.com/Kathitjoshi/IVERILOG-CODES)
-* [ARM 7 TDMI codes for futire Pesites](https://github.com/Kathitjoshi/ARM-CODES)
-* [DSA Codes for futire Pesites](https://github.com/Kathitjoshi/DSA-CODES)
-* [WebTech Basic Tutorials](https://github.com/Kathitjoshi/WebTech-Orange)
-* [WebDev Codes for future Pesites](https://github.com/Kathitjoshi/WEBTECH-CODES)
-* [SDS Codes for future Pesites](https://github.com/Kathitjoshi/SDS-Hands-on)
+* [Simple Calculator](https://github.com/Kathitjoshi/Simple-Calculator) (*Web Development*)
+* [Simple Animation](https://github.com/Kathitjoshi/Sun-and-Clouds) (*Web Development*)
+* [Space HTML](https://github.com/Kathitjoshi/Space_HTML) (*Web Development*)
+* [Iverilog Codes for Future Pesites](https://github.com/Kathitjoshi/IVERILOG-CODES)(*I-Verilog*)
+* [ARM 7 TDMI codes for futire Pesites](https://github.com/Kathitjoshi/ARM-CODES) (*Assembly*)
+* [DSA Codes for futire Pesites](https://github.com/Kathitjoshi/DSA-CODES)(*Data Structures*)
+* [WebTech Basic Tutorials](https://github.com/Kathitjoshi/WebTech-Orange) (*Web Development*)
+* [WebDev Codes for future Pesites](https://github.com/Kathitjoshi/WEBTECH-CODES) (*Web Development*)
+* [SDS Codes for future Pesites](https://github.com/Kathitjoshi/SDS-Hands-on)(*Data Analysis and Modelling*)
   
 
