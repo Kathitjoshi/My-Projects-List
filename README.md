@@ -33,6 +33,7 @@
 
 ## Miscellaneous
 * [Simple Calculator](https://github.com/Kathitjoshi/Simple-Calculator) (*Web Development*)
+* [Cisco Packet Tracer](https://github.com/Kathitjoshi/Cisco_Packet_Tracer) (*Computer Networks")
 * [Digital Clock](https://github.com/Kathitjoshi/Digital-Clock) (*Web Development*)
 * [Simple Animation](https://github.com/Kathitjoshi/Sun-and-Clouds) (*Web Development*)
 * [Space HTML](https://github.com/Kathitjoshi/Space_HTML) (*Web Development*)
