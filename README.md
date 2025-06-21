@@ -29,7 +29,9 @@
 
 ## Data Analysis and Modelling
 * [SDS Datathon](https://github.com/Kathitjoshi/SDS-Datathon)  
-  
+
+## JS
+* [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
 
 ## Miscellaneous
 * [Simple Calculator](https://github.com/Kathitjoshi/Simple-Calculator) (*Web Development*)
