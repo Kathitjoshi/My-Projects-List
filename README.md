@@ -32,7 +32,7 @@
 
 ## Cisco Packet Tracer
 
-[Cisco Packet Tracer](https://github.com/Kathitjoshi/Cisco_Packet_Tracer)
+* [Cisco Packet Tracer](https://github.com/Kathitjoshi/Cisco_Packet_Tracer)
 
 ## JS
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
