@@ -36,6 +36,7 @@
 
 ## JS
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
+* [Docbreak-Reader-Breakpoint-Edge-Extension/AddOn](https://github.com/Kathitjoshi/Docbreak-Reader-Breakpoint)
 
 ## Miscellaneous
 * [Simple Calculator](https://github.com/Kathitjoshi/Simple-Calculator) (*Web Development*)
