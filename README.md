@@ -1,5 +1,4 @@
 # My-Projects-List
-![Last Updated](https://img.shields.io/github/last-commit/Kathitjoshi/My-Projects-List?label=Last%20Updated)
 
 ## Python
 
@@ -63,3 +62,4 @@
 
 
 
+*Last updated: 02-07-2025*
