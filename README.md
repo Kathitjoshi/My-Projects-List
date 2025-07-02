@@ -61,5 +61,5 @@
 * [LA Codes for **future Pesites**](https://github.com/Kathitjoshi/LA-code-Materials)(*Data Analysis and Modelling*)
 
 
-  🕒 **Last Updated:** <!--LAST_UPDATED-->
+sed -i "s/Last Updated:.*/Last Updated: $(date +'%B %d, %Y')/" README.md
 
