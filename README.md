@@ -1,4 +1,5 @@
 # My-Projects-List
+![Last Updated](https://img.shields.io/github/last-commit/Kathitjoshi/My-Projects-List?label=Last%20Updated)
 
 ## Python
 
@@ -61,5 +62,4 @@
 * [LA Codes for **future Pesites**](https://github.com/Kathitjoshi/LA-code-Materials)(*Data Analysis and Modelling*)
 
 
-sed -i "s/Last Updated:.*/Last Updated: $(date +'%B %d, %Y')/" README.md
 
