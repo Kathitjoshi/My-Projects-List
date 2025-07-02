@@ -28,7 +28,16 @@
 * [Logical Operations](https://github.com/Kathitjoshi/Logical-Operations_iverilog)
 
 ## Data Analysis and Modelling
-* [SDS Datathon](https://github.com/Kathitjoshi/SDS-Datathon)  
+* [SDS Datathon](https://github.com/Kathitjoshi/SDS-Datathon)
+* [Music Mood & Tempo Analyzer](https://github.com/Kathitjoshi/MoodCast)
+
+## AI/ML 
+* [Personal Life Dashboard](https://github.com/Kathitjoshi/LifeScope)
+
+
+## Golang
+* [Go Web Server](https://github.com/Kathitjoshi/GopherServe)
+* [Enhanced TCP Port Scanner](https://github.com/Kathitjoshi/GopherRecon)
 
 ## Cisco Packet Tracer
 
