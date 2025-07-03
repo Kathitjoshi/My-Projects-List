@@ -34,6 +34,8 @@
 ## AI/ML 
 * [Personal Life Dashboard](https://github.com/Kathitjoshi/LifeScope)
 
+##Arduino
+* [Morse Code Encoder/Decoder](https://github.com/Kathitjoshi/arduino-morse-encoder-decoder)
 
 ## Golang
 * [Go Web Server](https://github.com/Kathitjoshi/GopherServe)
