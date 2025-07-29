@@ -36,7 +36,7 @@
 * [Personal Life Dashboard](https://github.com/Kathitjoshi/LifeScope)
 * [ShopSaver_AI](https://github.com/Kathitjoshi/ShopSaver_AI)
 
-##Arduino
+## Arduino
 * [Morse Code Encoder/Decoder](https://github.com/Kathitjoshi/arduino-morse-encoder-decoder)
 
 ## Golang
