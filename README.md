@@ -19,7 +19,8 @@
 ## Web Development
 
 * [Login Page](https://github.com/Kathitjoshi/LoginPage_2)
-* [Portfolio Website](https://github.com/Kathitjoshi/Kathitjoshi.github.io)
+* [Old Portfolio Website](https://github.com/Kathitjoshi/Kathitjoshi.github.io)
+* [New Portfolio Website](https://github.com/Kathitjoshi/Portfolio-Website)
 * [To-do List](https://github.com/Kathitjoshi/WebTech-Jackfruit)
 * [Indian Budget Survey Form](https://github.com/Kathitjoshi/WebTech-Banana)
 
@@ -33,6 +34,7 @@
 
 ## AI/ML 
 * [Personal Life Dashboard](https://github.com/Kathitjoshi/LifeScope)
+* [ShopSaver_AI](https://github.com/Kathitjoshi/ShopSaver_AI)
 
 ##Arduino
 * [Morse Code Encoder/Decoder](https://github.com/Kathitjoshi/arduino-morse-encoder-decoder)
@@ -44,6 +46,10 @@
 ## Cisco Packet Tracer
 
 * [Cisco Packet Tracer](https://github.com/Kathitjoshi/Cisco_Packet_Tracer)
+
+## Open Source Contributions and Pull Requests
+
+* [Fireship](https://github.com/Kathitjoshi/git-sticker)
 
 ## JS
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
