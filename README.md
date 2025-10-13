@@ -10,6 +10,7 @@
 * [Search-Bar](https://github.com/Kathitjoshi/Search-Bar)
 * [SecureTCP-Calculator-MultiServer](https://github.com/Kathitjoshi/SecureTCP_Calculator_MultiServer)
 * [BrowserCache](https://github.com/Kathitjoshi/BrowserCache)
+* [PyArcade](https://github.com/Kathitjoshi/Py-Arcade)
 
 ## C
 
@@ -35,6 +36,7 @@
 ## AI/ML 
 * [Personal Life Dashboard](https://github.com/Kathitjoshi/LifeScope)
 * [ShopSaver_AI](https://github.com/Kathitjoshi/ShopSaver_AI)
+* [FlightDelayPrediction](https://github.com/Kathitjoshi/FlightDelayPrediction)
 
 ## Arduino
 * [Morse Code Encoder/Decoder](https://github.com/Kathitjoshi/arduino-morse-encoder-decoder)
@@ -50,6 +52,7 @@
 ## Open Source Contributions and Pull Requests
 
 * [Fireship](https://github.com/Kathitjoshi/git-sticker)
+* [my-calculator](https://github.com/Kathitjoshi/my-calculator)
 
 ## JS
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
