@@ -49,7 +49,7 @@
 
 * [Cisco Packet Tracer](https://github.com/Kathitjoshi/Cisco_Packet_Tracer)
 
-## Open Source Contributions and Pull Requests
+## Open Source Contributions and Pull Requests (Note: many of my repos are under MIT license as well)
 
 * [Fireship](https://github.com/Kathitjoshi/git-sticker)
 * [my-calculator](https://github.com/Kathitjoshi/my-calculator)
