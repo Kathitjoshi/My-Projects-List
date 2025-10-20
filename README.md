@@ -52,8 +52,8 @@
 ## Open Source Contributions and Pull Requests (Note: many of my repos are under MIT license as well)
 
 * [Fireship](https://github.com/Kathitjoshi/git-sticker)
-*
-[Shatter-Lock for HN-07](https://github.com/Kathitjoshi/ShatterLock)
+* [Shatter-Lock for HN-07](https://github.com/Kathitjoshi/ShatterLock)
+* [Locker for HN-07] (https://github.com/Kathitjoshi/Locker)
 * [my-calculator](https://github.com/Kathitjoshi/my-calculator)
 
 
