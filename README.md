@@ -53,7 +53,7 @@
 
 * [Fireship](https://github.com/Kathitjoshi/git-sticker)
 * [Shatter-Lock for HN-07](https://github.com/Kathitjoshi/ShatterLock)
-* [Locker for HN-07] (https://github.com/Kathitjoshi/Locker)
+* [Locker for HN-07](https://github.com/Kathitjoshi/Locker)
 * [my-calculator](https://github.com/Kathitjoshi/my-calculator)
 
 
