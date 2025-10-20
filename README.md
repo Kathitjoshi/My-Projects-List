@@ -52,7 +52,11 @@
 ## Open Source Contributions and Pull Requests (Note: many of my repos are under MIT license as well)
 
 * [Fireship](https://github.com/Kathitjoshi/git-sticker)
+*
+[Shatter-Lock for HN-07](https://github.com/Kathitjoshi/ShatterLock)
 * [my-calculator](https://github.com/Kathitjoshi/my-calculator)
+
+
 
 ## JS
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
