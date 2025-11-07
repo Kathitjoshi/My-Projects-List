@@ -12,6 +12,7 @@
 * [BrowserCache](https://github.com/Kathitjoshi/BrowserCache)
 * [PyArcade](https://github.com/Kathitjoshi/Py-Arcade)
 
+
 ## C
 
 * [Census-Management](https://github.com/Kathitjoshi/Census_Management)
@@ -24,6 +25,7 @@
 * [New Portfolio Website](https://github.com/Kathitjoshi/Portfolio-Website)
 * [To-do List](https://github.com/Kathitjoshi/WebTech-Jackfruit)
 * [Indian Budget Survey Form](https://github.com/Kathitjoshi/WebTech-Banana)
+* [Peer-Link](https://github.com/Kathitjoshi/PeerLink)
 
 ## I-verilog
 * [8-bit ones counter](https://github.com/Kathitjoshi/Ones-Counter_IVERILOG)
@@ -37,6 +39,7 @@
 * [Personal Life Dashboard](https://github.com/Kathitjoshi/LifeScope)
 * [ShopSaver_AI](https://github.com/Kathitjoshi/ShopSaver_AI)
 * [FlightDelayPrediction](https://github.com/Kathitjoshi/FlightDelayPrediction)
+* [AI playing Hangman](https://github.com/Kathitjoshi/ml-hackathon)
 
 ## Arduino
 * [Morse Code Encoder/Decoder](https://github.com/Kathitjoshi/arduino-morse-encoder-decoder)
