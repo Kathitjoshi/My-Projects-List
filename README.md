@@ -60,7 +60,8 @@
 * [my-calculator](https://github.com/Kathitjoshi/my-calculator)
 * [Shunya Hackathon portal](https://github.com/Kathitjoshi/NumiNova-Shunya-Hackathon)
 
-
+## Premium
+*[Bot detector](https://github.com/Kathitjoshi/bot-detector)
 
 ## JS
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
