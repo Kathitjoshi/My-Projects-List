@@ -61,8 +61,8 @@
 * [Shunya Hackathon portal](https://github.com/Kathitjoshi/NumiNova-Shunya-Hackathon)
 
 ## Premium
-*[Bot detector](https://github.com/Kathitjoshi/bot-detector)
-*[Public-opinion-analyzer](https://github.com/Kathitjoshi/public-opinion-analyzer)
+* [Bot detector](https://github.com/Kathitjoshi/bot-detector)
+* [Public-opinion-analyzer](https://github.com/Kathitjoshi/public-opinion-analyzer)
 
 ## JS
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
