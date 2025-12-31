@@ -57,11 +57,12 @@
 * [Fireship](https://github.com/Kathitjoshi/git-sticker)
 * [Shatter-Lock for HN-07](https://github.com/Kathitjoshi/ShatterLock)
 * [Locker for HN-07](https://github.com/Kathitjoshi/Locker)
-* [my-calculator](https://github.com/Kathitjoshi/my-calculator)
+* [My-calculator/pytest](https://github.com/Kathitjoshi/my-calculator)
 * [Shunya Hackathon portal](https://github.com/Kathitjoshi/NumiNova-Shunya-Hackathon)
 
 ## Premium
 *[Bot detector](https://github.com/Kathitjoshi/bot-detector)
+*[Public-opinion-analyzer](https://github.com/Kathitjoshi/public-opinion-analyzer)
 
 ## JS
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
