@@ -2,12 +2,12 @@
 
 ## Python
 
-* [Stone-Papers-Scissors](https://github.com/Kathitjoshi/stone_papers_scissors) 
-* [PLY-Tool](https://github.com/Kathitjoshi/PLY-tool)
+* [Stone-Papers-Scissors](https://github.com/Kathitjoshi/Hand-combat) 
+* [PLY-Tool](https://github.com/Kathitjoshi/Lexer-studio)
 * [MarketPlace-Express](https://github.com/Kathitjoshi/MarketPlace-Express)
-* [Sign-up-page](https://github.com/Kathitjoshi/Sign-up-Portal)
-* [Login-Page](https://github.com/Kathitjoshi/Login-Portal)
-* [Search-Bar](https://github.com/Kathitjoshi/Search-Bar)
+* [Sign-up-page](https://github.com/Kathitjoshi/Welcome-aboard)
+* [Login-Page](https://github.com/Kathitjoshi/Keyhole)
+* [Search-Bar](https://github.com/Kathitjoshi/Find-it)
 * [SecureTCP-Calculator-MultiServer](https://github.com/Kathitjoshi/SecureTCP_Calculator_MultiServer)
 * [BrowserCache](https://github.com/Kathitjoshi/BrowserCache)
 * [PyArcade](https://github.com/Kathitjoshi/Py-Arcade)
@@ -15,21 +15,21 @@
 
 ## C
 
-* [Census-Management](https://github.com/Kathitjoshi/Census_Management)
+* [Census-Management](https://github.com/Kathitjoshi/Countify)
 * [Child-Parent-MemoryMap-Basic Kernel Module](https://github.com/Kathitjoshi/Child_Parent_MemoryMap_BasicKernelModule)
 
 ## Web Development
 
-* [Login Page](https://github.com/Kathitjoshi/LoginPage_2)
-* [Old Portfolio Website](https://github.com/Kathitjoshi/Kathitjoshi.github.io)
+* [Login Page](https://github.com/Kathitjoshi/knock-knock)
+* [Old Portfolio Website](https://github.com/Kathitjoshi/Kathitjoshi.github.io) **Deprecated so pls see below new portfolio site!!**
 * [New Portfolio Website](https://github.com/Kathitjoshi/Portfolio-Website)
-* [To-do List](https://github.com/Kathitjoshi/WebTech-Jackfruit)
-* [Indian Budget Survey Form](https://github.com/Kathitjoshi/WebTech-Banana)
+* [To-do List](https://github.com/Kathitjoshi/Task-ninja)
+* [Indian Budget Survey Form](https://github.com/Kathitjoshi/Budgetwise-survey)
 * [Peer-Link](https://github.com/Kathitjoshi/PeerLink)
 
 ## I-verilog
-* [8-bit ones counter](https://github.com/Kathitjoshi/Ones-Counter_IVERILOG)
-* [Logical Operations](https://github.com/Kathitjoshi/Logical-Operations_iverilog)
+* [8-bit ones counter](https://github.com/Kathitjoshi/one-by-one)
+* [Logical Operations](https://github.com/Kathitjoshi/Logic-forge)
 
 ## Data Analysis and Modelling
 * [SDS Datathon](https://github.com/Kathitjoshi/SDS-Datathon)
@@ -42,7 +42,7 @@
 * [AI playing Hangman](https://github.com/Kathitjoshi/ml-hackathon)
 
 ## Arduino
-* [Morse Code Encoder/Decoder](https://github.com/Kathitjoshi/arduino-morse-encoder-decoder)
+* [Morse Code Encoder/Decoder](https://github.com/Kathitjoshi/dash-n-dot)
 
 ## Golang
 * [Go Web Server](https://github.com/Kathitjoshi/GopherServe)
@@ -69,18 +69,18 @@
 * [Docbreak-Reader-Breakpoint-Edge-Extension/AddOn](https://github.com/Kathitjoshi/Docbreak-Reader-Breakpoint)
 
 ## Miscellaneous
-* [Simple Calculator](https://github.com/Kathitjoshi/Simple-Calculator) (*Web Development*)
-* [Digital Clock](https://github.com/Kathitjoshi/Digital-Clock) (*Web Development*)
+* [Simple Calculator](https://github.com/Kathitjoshi/Calc-it) (*Web Development*)
+* [Digital Clock](https://github.com/Kathitjoshi/Tick-Tock) (*Web Development*)
 * [Simple Animation](https://github.com/Kathitjoshi/Sun-and-Clouds) (*Web Development*)
 * [Space HTML](https://github.com/Kathitjoshi/Space_HTML) (*Web Development*)
 * [Iverilog Codes for **future Pesites**](https://github.com/Kathitjoshi/IVERILOG-CODES)(*I-Verilog*)
 * [ARM 7 TDMI codes for **future Pesites**](https://github.com/Kathitjoshi/ARM-CODES) (*Assembly*)
 * [DSA Codes for **future Pesites**](https://github.com/Kathitjoshi/DSA-CODES)(*Data Structures*)
-* [WebTech Basic Tutorials](https://github.com/Kathitjoshi/WebTech-Orange) (*Web Development*)
+* [WebTech Basic Tutorials](https://github.com/Kathitjoshi/Web-wizardry) (*Web Development*)
 * [WebDev Codes for **future Pesites**](https://github.com/Kathitjoshi/WEBTECH-CODES) (*Web Development*)
 * [SDS Codes for **future Pesites**](https://github.com/Kathitjoshi/SDS-Hands-on)(*Data Analysis and Modelling*)
 * [LA Codes for **future Pesites**](https://github.com/Kathitjoshi/LA-code-Materials)(*Data Analysis and Modelling*)
 
 
 
-*Last updated: 31-12-2025*
+*Last updated: 19-01-2026*
