@@ -60,7 +60,7 @@
 * [My-calculator/pytest](https://github.com/Kathitjoshi/my-calculator)
 * [Shunya Hackathon portal](https://github.com/Kathitjoshi/NumiNova-Shunya-Hackathon)
 
-## Premium
+## Premium Projects
 * [Bot detector](https://github.com/Kathitjoshi/bot-detector)
 * [Public-opinion-analyzer](https://github.com/Kathitjoshi/public-opinion-analyzer)
 
