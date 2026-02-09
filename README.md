@@ -64,6 +64,8 @@
 ## Premium Projects
 * [Bot detector](https://github.com/Kathitjoshi/bot-detector)
 * [Public-opinion-analyzer](https://github.com/Kathitjoshi/public-opinion-analyzer)
+* [LogSentry](https://github.com/Kathitjoshi/LogSentry)
+
 
 ## JS
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
@@ -84,4 +86,4 @@
 
 
 
-*Last updated: 22-01-2026*
+*Last updated: 09-02-2026*
