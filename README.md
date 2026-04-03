@@ -65,6 +65,7 @@
 * [Bot detector](https://github.com/Kathitjoshi/bot-detector)
 * [Public-opinion-analyzer](https://github.com/Kathitjoshi/public-opinion-analyzer)
 * [LogSentry](https://github.com/Kathitjoshi/LogSentry)
+* [DevLens](https://github.com/Kathitjoshi/devlens)
 
 
 ## JS
@@ -86,4 +87,4 @@
 
 
 
-*Last updated: 09-02-2026*
+*Last updated: 03-04-2026*
