@@ -29,6 +29,9 @@
 * [NexLearn](https://github.com/Kathitjoshi/NexLearn)
 * [Tenanttrack](https://github.com/Kathitjoshi/tenanttrack)
 
+## Blockchain
+* [HackNoir](https://github.com/Kathitjoshi/Hacknoir)
+
 ## I-verilog
 * [8-bit ones counter](https://github.com/Kathitjoshi/one-by-one)
 * [Logical Operations](https://github.com/Kathitjoshi/Logic-forge)
