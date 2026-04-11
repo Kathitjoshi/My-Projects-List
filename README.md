@@ -70,6 +70,7 @@
 * [Public-opinion-analyzer](https://github.com/Kathitjoshi/public-opinion-analyzer)
 * [LogSentry](https://github.com/Kathitjoshi/LogSentry)
 * [DevLens](https://github.com/Kathitjoshi/devlens)
+* [Capstone](https://github.com/Kathitjoshi/Capstone)
 
 
 ## JS
@@ -91,4 +92,4 @@
 
 
 
-*Last updated: 09-04-2026*
+*Last updated: 11-04-2026*
