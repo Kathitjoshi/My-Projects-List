@@ -90,6 +90,17 @@
 * [WebDev Codes for **future Pesites**](https://github.com/Kathitjoshi/WEBTECH-CODES) (*Web Development*)
 * [SDS Codes for **future Pesites**](https://github.com/Kathitjoshi/SDS-Hands-on)(*Data Analysis and Modelling*)
 * [LA Codes for **future Pesites**](https://github.com/Kathitjoshi/LA-code-Materials)(*Data Analysis and Modelling*)
+* [CC lab 2](https://github.com/Kathitjoshi/PES2UG23CS264_CCLAB2)(*CC*)
+* [CC lab 3](https://github.com/Kathitjoshi/CC_LAB3_PES2UG23CS264)(*CC*)
+* [CC lab 4](https://github.com/Kathitjoshi/CC_LAB_4_PES2UG23CS264)(*CC*)
+* [CC lab 5](https://github.com/Kathitjoshi/PES2UG23CS264_CC-LAB-5)(*CC*)
+* [CC lab 6](https://github.com/Kathitjoshi/PES2UG23CS264_Jenkins)(*CC*)
+* [CC lab 7](https://github.com/Kathitjoshi/CC_LAB_7_PES2UG23CS264)(*CC*)
+* [CC lab 8](https://github.com/Kathitjoshi/CC_LAB_8_PES2UG23CS264)(*CC*)
+
+
+  
+
 
 
 
