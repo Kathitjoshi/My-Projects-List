@@ -71,6 +71,7 @@
 * [LogSentry](https://github.com/Kathitjoshi/LogSentry)
 * [DevLens](https://github.com/Kathitjoshi/devlens)
 * [Capstone](https://github.com/Kathitjoshi/Capstone)
+* [EduVerse](https://github.com/Kathitjoshi/Eduverse)
 
 
 ## JS
@@ -92,4 +93,4 @@
 
 
 
-*Last updated: 11-04-2026*
+*Last updated: 26-05-2026*
