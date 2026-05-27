@@ -72,6 +72,7 @@
 * [DevLens](https://github.com/Kathitjoshi/devlens)
 * [Capstone](https://github.com/Kathitjoshi/Capstone)
 * [EduVerse](https://github.com/Kathitjoshi/Eduverse)
+* [NeonSnake](https://github.com/Kathitjoshi/NeonSnake)
 
 
 ## JS
