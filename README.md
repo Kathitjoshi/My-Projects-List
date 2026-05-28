@@ -65,7 +65,7 @@
 * [My-calculator/pytest](https://github.com/Kathitjoshi/my-calculator)
 * [Shunya Hackathon portal](https://github.com/Kathitjoshi/NumiNova-Shunya-Hackathon)
 
-## Premium Projects
+## Premium Projects (Multiple technologies used in each)
 * [Bot detector](https://github.com/Kathitjoshi/bot-detector)
 * [Public-opinion-analyzer](https://github.com/Kathitjoshi/public-opinion-analyzer)
 * [LogSentry](https://github.com/Kathitjoshi/LogSentry)
@@ -73,11 +73,11 @@
 * [Capstone](https://github.com/Kathitjoshi/Capstone)
 * [EduVerse](https://github.com/Kathitjoshi/Eduverse)
 * [NeonSnake](https://github.com/Kathitjoshi/NeonSnake)
-
-
-## JS
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
 * [Docbreak-Reader-Breakpoint-Edge-Extension/AddOn](https://github.com/Kathitjoshi/Docbreak-Reader-Breakpoint)
+
+
+
 
 ## Miscellaneous
 * [Simple Calculator](https://github.com/Kathitjoshi/Calc-it) (*Web Development*)
