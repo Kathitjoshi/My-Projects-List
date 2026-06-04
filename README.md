@@ -1,5 +1,27 @@
 # My-Projects-List (Note: many of my repos are under MIT license as well)
 
+## Premium Projects (Multiple technologies used in each)
+* [Bot detector](https://github.com/Kathitjoshi/bot-detector)
+* [Public-opinion-analyzer](https://github.com/Kathitjoshi/public-opinion-analyzer)
+* [LogSentry](https://github.com/Kathitjoshi/LogSentry)
+* [DevLens](https://github.com/Kathitjoshi/devlens)
+* [Capstone](https://github.com/Kathitjoshi/Capstone) (*Work in Progress*)
+* [EduVerse](https://github.com/Kathitjoshi/Eduverse)
+* [NeonSnake](https://github.com/Kathitjoshi/NeonSnake)
+* [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
+* [Docbreak-Reader-Breakpoint-Edge-Extension/AddOn](https://github.com/Kathitjoshi/Docbreak-Reader-Breakpoint)
+* [BotSight](https://github.com/Kathitjoshi/BotSight)
+
+## Open Source Contributions and Pull Requests (Hacktober 2025)
+
+* [Fireship](https://github.com/Kathitjoshi/git-sticker)
+* [Shatter-Lock for HN-07](https://github.com/Kathitjoshi/ShatterLock)
+* [Locker for HN-07](https://github.com/Kathitjoshi/Locker)
+* [Shunya Hackathon portal](https://github.com/Kathitjoshi/NumiNova-Shunya-Hackathon)
+
+## Internship Work
+* [Kodbud Python Developer(**June 2026- July 2026**)](https://github.com/Kathitjoshi/KodBud_python_internship)
+
 ## Python 
 
 * [Stone-Papers-Scissors](https://github.com/Kathitjoshi/Hand-combat) 
@@ -57,25 +79,6 @@
 
 * [Cisco Packet Tracer](https://github.com/Kathitjoshi/Cisco_Packet_Tracer)
 
-## Open Source Contributions and Pull Requests (Hacktober 2025)
-
-* [Fireship](https://github.com/Kathitjoshi/git-sticker)
-* [Shatter-Lock for HN-07](https://github.com/Kathitjoshi/ShatterLock)
-* [Locker for HN-07](https://github.com/Kathitjoshi/Locker)
-* [Shunya Hackathon portal](https://github.com/Kathitjoshi/NumiNova-Shunya-Hackathon)
-
-## Premium Projects (Multiple technologies used in each)
-* [Bot detector](https://github.com/Kathitjoshi/bot-detector)
-* [Public-opinion-analyzer](https://github.com/Kathitjoshi/public-opinion-analyzer)
-* [LogSentry](https://github.com/Kathitjoshi/LogSentry)
-* [DevLens](https://github.com/Kathitjoshi/devlens)
-* [Capstone](https://github.com/Kathitjoshi/Capstone) (*Work in Progress*)
-* [EduVerse](https://github.com/Kathitjoshi/Eduverse)
-* [NeonSnake](https://github.com/Kathitjoshi/NeonSnake)
-* [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
-* [Docbreak-Reader-Breakpoint-Edge-Extension/AddOn](https://github.com/Kathitjoshi/Docbreak-Reader-Breakpoint)
-* [BotSight](https://github.com/Kathitjoshi/BotSight)
-
 
 ## Miscellaneous (Course work or Basic Projects/Work done for learning)
 * [Simple Calculator](https://github.com/Kathitjoshi/Calc-it) (*Web Development*)
@@ -105,4 +108,4 @@
 
 
 
-*Last updated: 01-08-2026*
+*Last updated: 04-08-2026*
