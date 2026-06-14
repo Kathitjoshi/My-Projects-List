@@ -18,6 +18,7 @@
 * [Shatter-Lock for HN-07](https://github.com/Kathitjoshi/ShatterLock)
 * [Locker for HN-07](https://github.com/Kathitjoshi/Locker)
 * [Shunya Hackathon portal](https://github.com/Kathitjoshi/NumiNova-Shunya-Hackathon)
+* [First time contributors page](https://github.com/Kathitjoshi/first-contributions)
 
 ## Internship Work
 * [Kodbud Python Developer(**June 2026- July 2026**)](https://github.com/Kathitjoshi/KodBud_python_internship)
@@ -108,4 +109,4 @@
 
 
 
-*Last updated: 04-08-2026*
+*Last updated: 14-08-2026*
