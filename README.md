@@ -12,7 +12,7 @@
 * [Docbreak-Reader-Breakpoint-Edge-Extension/AddOn](https://github.com/Kathitjoshi/Docbreak-Reader-Breakpoint)
 * [BotSight](https://github.com/Kathitjoshi/BotSight)
 
-## Open Source Contributions and Pull Requests (Hacktober 2025)
+## Open Source Contributions and Pull Requests (Hacktober 2025/Summer 2026)
 
 * [Fireship](https://github.com/Kathitjoshi/git-sticker)
 * [Shatter-Lock for HN-07](https://github.com/Kathitjoshi/ShatterLock)
@@ -109,4 +109,4 @@
 
 
 
-*Last updated: 14-08-2026*
+*Last updated: 16-08-2026*
