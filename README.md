@@ -11,6 +11,8 @@
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
 * [Docbreak-Reader-Breakpoint-Edge-Extension/AddOn](https://github.com/Kathitjoshi/Docbreak-Reader-Breakpoint)
 * [BotSight](https://github.com/Kathitjoshi/BotSight)
+* [Vellium](https://github.com/Kathitjoshi/Vellium)
+* [Vellium-Model](https://github.com/Kathitjoshi/Vellium-Model)
 
 ## Open Source Contributions and Pull Requests (Hacktober 2025/Summer 2026)
 
@@ -109,4 +111,4 @@
 
 
 
-*Last updated: 16-08-2026*
+*Last updated: 27-06-2026*
