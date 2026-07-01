@@ -23,7 +23,8 @@
 * [First time contributors page](https://github.com/Kathitjoshi/first-contributions)
 
 ## Internship Work
-* [Kodbud Python Developer(**June 2026- July 2026**)](https://github.com/Kathitjoshi/KodBud_python_internship)
+* [Kodbud Python Developer (**June 2026- July 2026**)](https://github.com/Kathitjoshi/KodBud_python_internship)
+* [AI Internship at CodeAlpha (**July 2026- Aug 2026**)](https://github.com/Kathitjoshi/codealpha_tasks)
 
 ## Python 
 
@@ -106,9 +107,4 @@
 
 
 
-  
-
-
-
-
-*Last updated: 27-06-2026*
+*Last updated: 01-07-2026*
