@@ -5,7 +5,7 @@
 * [Public-opinion-analyzer](https://github.com/Kathitjoshi/public-opinion-analyzer)
 * [LogSentry](https://github.com/Kathitjoshi/LogSentry)
 * [DevLens](https://github.com/Kathitjoshi/devlens)
-* [Capstone](https://github.com/Kathitjoshi/Capstone) (*Work in Progress*)
+* [Capstone](https://github.com/Kathitjoshi/stress-detection-multimodal) (*Work in Progress*)
 * [EduVerse](https://github.com/Kathitjoshi/Eduverse)
 * [NeonSnake](https://github.com/Kathitjoshi/NeonSnake)
 * [Babel-Lens-VSCode Extension](https://github.com/Kathitjoshi/Babel-Lens)
